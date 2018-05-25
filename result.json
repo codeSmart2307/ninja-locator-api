@@ -1,0 +1,16 @@
+[
+	{
+		"_id": "5b06e2eb90b8cb69c0b82572",
+		"available": true,
+		"name": "Raneesh",
+		"rank": "Black Belt",
+		"__v": 0
+	},
+	{
+		"_id": "5b0793af5dcce20928ee163d",
+		"available": false,
+		"name": "Dillon",
+		"rank": "Black Belt",
+		"__v": 0
+	}
+]
